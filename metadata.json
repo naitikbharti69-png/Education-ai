@@ -1,0 +1,6 @@
+{
+  "name": "VidyaSetu",
+  "description": "Bilingual (Hindi & English) Class 1-12 learning platform with recorded lectures, AI notes & summaries, interactive diagram canvas, mock tests, doubt chatbot, study planner, gamified progress dashboard, and offline lesson downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

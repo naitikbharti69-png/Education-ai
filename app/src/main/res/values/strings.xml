@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VidyaSetu</string>
+    <string name="nav_lectures">Lectures</string>
+    <string name="nav_tests">Mock Tests</string>
+    <string name="nav_canvas">Diagrams</string>
+    <string name="nav_doubt_ai">AI Tutor</string>
+    <string name="nav_progress">Progress</string>
+    <string name="hero_banner_desc">Students learning science and mathematics illustration</string>
+    <string name="offline_mode_label">Offline Mode</string>
+    <string name="language_toggle_desc">Switch App Language</string>
+</resources>
